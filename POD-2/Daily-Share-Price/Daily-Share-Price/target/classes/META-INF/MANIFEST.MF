@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Daily-Share-Price
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2063029
+Implementation-Vendor-Id: com.cognizant.portfolio_management
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/Daily-Share
+ -Price
+Created-By: Maven Integration for Eclipse
+
