@@ -1,0 +1,41 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+ }
+ 
+ .row > div[class*='col-'] {
+   display: flex;
+ }
+ body{
+    background-image: url("https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png");
+    background-color: blue;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+   }
+
+.card{
+    border-radius: 0;
+    background: white;
+    border:1;
+}
+
+.name{
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    color:whitesmoke;
+    padding-left: 20px;
+}
+.odd{
+    background-color: white;
+
+
+}
+.even{
+    background-color: #bf77f0;
+}
+.submit-btn{
+    float: right;
+
+    
+}
